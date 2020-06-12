@@ -11,3 +11,7 @@ upgrade.xl9.xunlei.com
 ol-cn.itools.hk
 stat2.itools.hk
 serv-cn.itools.hk
+u8.sngydr.xyz
+page.kydrqp.cn
+aod-image-material.cdn.bcebos.com
+adc.tamedia.com.tw
