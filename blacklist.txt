@@ -43,3 +43,7 @@ click.alibaba.com
 ad4.com.cn
 appjiagu.com
 andrcool.com
+||mangaapi.manhuaren.com/v1/public/getAditem
+||mangaapi.manhuaren.com/v1/public/getStartPageAds
+||mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy
+||mangaapi.manhuaren.com/v1/public/getAds
