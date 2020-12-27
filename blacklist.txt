@@ -47,3 +47,9 @@ andrcool.com
 ||mangaapi.manhuaren.com/v1/public/getStartPageAds
 ||mangaapi.manhuaren.com/v1/public/getMultiAdsStrategy
 ||mangaapi.manhuaren.com/v1/public/getAds
+
+/googleads.$~script,domain=~googleads.github.io 
+/pagead/lvz? 
+||google.com/pagead/ 
+||static.doubleclick.net^$domain=youtube.com 
+||youtube.com/get_midroll_
