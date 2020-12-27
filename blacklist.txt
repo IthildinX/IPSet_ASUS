@@ -51,5 +51,10 @@ andrcool.com
 /googleads.$~script,domain=~googleads.github.io 
 /pagead/lvz? 
 ||google.com/pagead/ 
-||static.doubleclick.net^$domain=youtube.com 
-||youtube.com/get_midroll_
+||static.doubleclick.net^$domain =youtube.com 
+||youtube.com/get_midroll_ 
+||youtube.com/api/stats/ads 
+||youtube.com/pagead/adview 
+||yt3.ggpht.com^ 
+||youtube.com/pcs/activeview 
+|| youtube.com/get_video_info
