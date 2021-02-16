@@ -45,6 +45,7 @@ appjiagu.com
 andrcool.com
 uu.cjyjqw.cn
 zwdkfirop.img.yodu.app
+zz.cjyjqw.cn
 
 ||mangaapi.manhuaren.com/v1/public/getAditem
 ||mangaapi.manhuaren.com/v1/public/getStartPageAds
