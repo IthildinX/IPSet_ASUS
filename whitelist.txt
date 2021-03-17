@@ -11,3 +11,11 @@ raw.githubusercontent.com
 taobao.com
 alipay.com
 bilibili.com
+
+@@||arkn.lolicon.app^$important
+@@||3.id.sophos.com^$important
+@@||pornhub^$important
+@@||hubt.pornhub.com^$important
+@@||blog.xuite.net^$important
+@@||mirrors.cloud.tencent.com^$important
+@@||downloads.openwrt.org^$important
