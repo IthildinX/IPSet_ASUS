@@ -15,7 +15,7 @@
 @@||mirrors.cloud.tencent.com^$important
 @@||downloads.openwrt.org^$important
 
-@@||3.id.sophos.com^$important
+@@||*.sophos.com^$important
 
 @@||ot.io.mi.com^$important
 @@||ott.io.mi.com^$important
