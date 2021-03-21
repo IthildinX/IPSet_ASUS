@@ -1,21 +1,41 @@
-m.facebook.com
-www.facebook.com
-facebook.com
+@@||p8u.hinet.net^$important
+@@||ssp.hinet.net^$important
 
-www.pornhub.com
+@@||m.facebook.com
+@@||www.facebook.com
+@@||facebook.com
+@@||l.facebook.com
 
-www.tohomh123.com
+@@||www.pornhub.com
+@@||pornhub^$important
+@@||hubt.pornhub.com^$important
 
-raw.githubusercontent.com
+@@||www.tohomh123.com
 
-taobao.com
-alipay.com
-bilibili.com
+@@||raw.githubusercontent.com
+
+@@||taobao.com
+@@||alipay.com
+@@||bilibili.com
+@@||www.baidu.com^$important
+@@||koolproxy.com^$important
 
 @@||arkn.lolicon.app^$important
 @@||3.id.sophos.com^$important
-@@||pornhub^$important
-@@||hubt.pornhub.com^$important
+
 @@||blog.xuite.net^$important
 @@||mirrors.cloud.tencent.com^$important
 @@||downloads.openwrt.org^$important
+
+@@||ot.io.mi.com^$important
+@@||ott.io.mi.com^$important
+@@||api.miwifi.com^$important
+@@||api.account.xiaomi.com^$important
+@@||cdn.fds-ssl.api.xiaomi.com^$important
+@@||connect.rom.miui.com^$important
+@@||sa.api.intl.miui.com^
+@@||tracking.intl.miui.com^
+@@||app.chat.global.xiaomi.net^$important
+@@||resolver.msg.global.xiaomi.net^$important
+@@||data.mistat.intl.xiaomi.com^$important
+@@||sdkconfig.ad.intl.xiaomi.com^$important
