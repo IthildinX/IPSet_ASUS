@@ -3,6 +3,7 @@
 @@||*.pornhub.com
 @@||blog.xuite.net^$important
 @@||raw.githubusercontent.com
+www.dlsite.com
 
 @@||arkn.lolicon.app^$important
 @@||www.tohomh123.com
@@ -23,3 +24,4 @@
 @@||*.xiaomi.com^$important
 @@||*.miui.com^$important
 @@||*.xiaomi.net^$important
+
