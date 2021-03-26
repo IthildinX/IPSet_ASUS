@@ -1,12 +1,14 @@
 @@||*.hinet.net^$important
 @@||*.facebook.com
 @@||*.pornhub.com
+
 @@||blog.xuite.net^$important
 @@||raw.githubusercontent.com
-www.dlsite.com
-tw.mall.yahoo.com
-moptt.tw
-
+@@||www.dlsite.com^$important
+@@||tw.mall.yahoo.com^$important
+@@||moptt.tw^$important
+@@||Site^$important
+@@||reurl.cc^$important
 @@||arkn.lolicon.app^$important
 @@||www.tohomh123.com
 @@||taobao.com
@@ -17,7 +19,6 @@ moptt.tw
 
 @@||mirrors.cloud.tencent.com^$important
 @@||downloads.openwrt.org^$important
-
 @@||*.sophos.com^$important
 
 @@||ot.io.mi.com^$important
