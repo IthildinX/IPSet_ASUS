@@ -16,6 +16,11 @@
 @@||bilibili.com
 @@||www.baidu.com^$important
 @@||koolproxy.com^$important
+@@||Site^$important
+@@||reurl.cc^$important
+@@||stat.youpin.mi.com^$important
+@@||games.shopee.tw^$important
+@@||www.pcstore.com.tw^$important
 
 @@||mirrors.cloud.tencent.com^$important
 @@||downloads.openwrt.org^$important
