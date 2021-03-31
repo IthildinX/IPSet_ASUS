@@ -79,3 +79,15 @@ zz.cjyjqw.cn
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[_.-]/
 /^track(ing)?[0-9]*[_.-]/
+
+#ACDSee
+127.0.0.1	acdid.acdsystems.com
+127.0.0.1	activation.acronis.com web-api-tih.acronis.com
+
+#CCleaner
+127.0.0.1	license.piriform.com
+
+#Wave
+127.0.0.1	www.r2rdownload.net
+127.0.0.1	www.r2rdownload.com
+127.0.0.1	www.elephantafiles.com
