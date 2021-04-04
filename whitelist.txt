@@ -22,7 +22,11 @@
 @@||games.shopee.tw^$important
 @@||www.pcstore.com.tw^$important
 @@||kknews.cc^$important
-
+@@||*.kknews.cc^$important
+@@||games.shopee.tw^$important
+@@||download.iobit.com^$important
+@@||ascstats.iobit.com^$important
+@@||stats.iobit.com^$important
 @@||mirrors.cloud.tencent.com^$important
 @@||downloads.openwrt.org^$important
 @@||*.sophos.com^$important
@@ -33,4 +37,5 @@
 @@||*.xiaomi.com^$important
 @@||*.miui.com^$important
 @@||*.xiaomi.net^$important
+
 
