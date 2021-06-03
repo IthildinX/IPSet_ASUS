@@ -39,6 +39,7 @@
 @@||tracking.trnox.com^$important
 @@||download.bitcomet.com^$important
 @@||www.peekme.cc^$important
+@@||read01.com^$important
 
 @@||ot.io.mi.com^$important
 @@||ott.io.mi.com^$important
