@@ -35,6 +35,10 @@
 @@||download-hr.utorrent.com^$important
 @@||appfiles-ctc.tv002.com^$important
 @@||mydisplay.ctfile.com^$important
+@@||tracking.apptrackerlink.com^$important
+@@||tracking.trnox.com^$important
+@@||download.bitcomet.com^$important
+@@||www.peekme.cc^$important
 
 @@||ot.io.mi.com^$important
 @@||ott.io.mi.com^$important
