@@ -43,6 +43,7 @@
 @@||tracking.apptrackerlink.com^$important
 @@||tracking.trnox.com^$important
 @@||download.bitcomet.com^$important
+@@||t1.daumcdn.net^$important
 
 @@||www.peekme.cc^$important
 @@||read01.com^$important
