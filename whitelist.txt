@@ -25,25 +25,8 @@
 @@||www.pcstore.com.tw^$important
 @@||games.shopee.tw^$important
 
-@@||download.iobit.com^$important
-@@||ascstats.iobit.com^$important
-@@||stats.iobit.com^$important
-
-@@||mirrors.cloud.tencent.com^$important
-@@||downloads.openwrt.org^$important
-@@||*.sophos.com^$important
-
 @@||files.catbox.moe^$important
-
-@@||appfiles-ctc.tv002.com^$important
-@@||mydisplay.ctfile.com^$important
-
-@@||www.utorrent.com^$important
-@@||download-hr.utorrent.com^$important
-@@||tracking.apptrackerlink.com^$important
-@@||tracking.trnox.com^$important
-@@||download.bitcomet.com^$important
-@@||t1.daumcdn.net^$important
+@@||upload.cc^$important
 
 @@||www.peekme.cc^$important
 @@||read01.com^$important
@@ -57,5 +40,17 @@
 @@||*.xiaomi.net^$important
 @@||stat.youpin.mi.com^$important
 
-@@||thebestgame2020.com^$important
-@@||affiliate.iqbroker.com^$important
+@@||mirrors.cloud.tencent.com^$important
+@@||downloads.openwrt.org^$important
+@@||*.sophos.com^$important
+
+@@||download.iobit.com^$important
+@@||ascstats.iobit.com^$important
+@@||stats.iobit.com^$important
+
+@@||www.utorrent.com^$important
+@@||download-hr.utorrent.com^$important
+@@||tracking.apptrackerlink.com^$important
+@@||tracking.trnox.com^$important
+@@||download.bitcomet.com^$important
+@@||t1.daumcdn.net^$important
