@@ -1,4 +1,4 @@
-@@||r1---sn-npoeen7d.googlevideo.com^$important
+@@||www.youtube.com/get_video_info?*=embedded$xhr,domain=youtube.com
 
 @@||*.hinet.net^$important
 @@||*.facebook.com
