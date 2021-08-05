@@ -33,6 +33,7 @@
 @@||www.peekme.cc^$important
 @@||read01.com^$important
 @@||kknews.cc^$important
+@@||p1-tt.byteimg.com^$important
 
 @@||ot.io.mi.com^$important
 @@||ott.io.mi.com^$important
