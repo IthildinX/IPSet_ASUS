@@ -3,6 +3,7 @@
 @@||*.hinet.net^$important
 @@||*.facebook.com
 @@||*.pornhub.com
+@@||history.google.com^$important
 
 @@||blog.xuite.net^$important
 @@||raw.githubusercontent.com
