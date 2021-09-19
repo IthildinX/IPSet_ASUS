@@ -60,3 +60,4 @@
 @@||t1.daumcdn.net^$important
 
 @@||cc-api-data.adobe.io^$important
+@@||copytosmartphone.appspot.com^$important
