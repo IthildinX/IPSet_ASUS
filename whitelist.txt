@@ -57,3 +57,5 @@
 @@||tracking.trnox.com^$important
 @@||download.bitcomet.com^$important
 @@||t1.daumcdn.net^$important
+
+@@||cc-api-data.adobe.io^$important
