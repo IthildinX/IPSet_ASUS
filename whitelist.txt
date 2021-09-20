@@ -61,3 +61,4 @@
 
 @@||cc-api-data.adobe.io^$important
 @@||copytosmartphone.appspot.com^$important
+@@||stat.yfp2p.net^$important
