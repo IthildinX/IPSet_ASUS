@@ -35,7 +35,7 @@
 @@||read01.com^$important
 @@||kknews.cc^$important
 @@||p1-tt.byteimg.com^$important
-@@||p1.pstatp.com^$important
+@@||*.pstatp.com^$important
 
 @@||ot.io.mi.com^$important
 @@||ott.io.mi.com^$important
