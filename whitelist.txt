@@ -4,6 +4,7 @@
 @@||*.facebook.com
 @@||*.pornhub.com
 @@||history.google.com^$important
+@@||*.brave.com^$important
 
 @@||blog.xuite.net^$important
 @@||raw.githubusercontent.com
@@ -19,9 +20,6 @@
 @@||alipay.com
 @@||bilibili.com
 @@||www.baidu.com^$important
-
-@@||koolproxy.com^$important
-@@||Site^$important
 @@||reurl.cc^$important
 
 @@||games.shopee.tw^$important
