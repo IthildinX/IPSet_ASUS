@@ -8,9 +8,6 @@ license.piriform.com
 hub5btmain.sandai.net
 hub5emu.sandai.net
 upgrade.xl9.xunlei.com
-ol-cn.itools.hk
-stat2.itools.hk
-serv-cn.itools.hk
 u8.sngydr.xyz
 page.kydrqp.cn
 aod-image-material.cdn.bcebos.com
@@ -46,7 +43,6 @@ andrcool.com
 uu.cjyjqw.cn
 zwdkfirop.img.yodu.app
 zz.cjyjqw.cn
-||*.itools.*^$important
 
 ||mangaapi.manhuaren.com/v1/public/getAditem
 ||mangaapi.manhuaren.com/v1/public/getStartPageAds
