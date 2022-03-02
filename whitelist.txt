@@ -50,6 +50,8 @@
 @@||download.iobit.com^$important
 @@||ascstats.iobit.com^$important
 @@||stats.iobit.com^$important
+@@||pro.itools.cn^$important
+@@||*.brave.com^$important
 
 @@||www.utorrent.com^$important
 @@||download-hr.utorrent.com^$important
@@ -58,6 +60,8 @@
 @@||download.bitcomet.com^$important
 @@||t1.daumcdn.net^$important
 
-@@||cc-api-data.adobe.io^$important
-@@||copytosmartphone.appspot.com^$important
-@@||stat.yfp2p.net^$important
+@@||*.line.naver.jp^$important
+@@||*.line-scdn.net^$important
+@@||*.line-apps.com^$important
+@@||lan.line.me^$important
+@@||nelo2-col.nhncorp.jp^$important
