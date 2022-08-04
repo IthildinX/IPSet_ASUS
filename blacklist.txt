@@ -87,3 +87,6 @@ zz.cjyjqw.cn
 127.0.0.1	www.r2rdownload.net
 127.0.0.1	www.r2rdownload.com
 127.0.0.1	www.elephantafiles.com
+
+#Easeus
+activation.easeus.com
