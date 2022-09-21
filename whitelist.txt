@@ -11,8 +11,11 @@
 @@||www.dlsite.com^$important
 @@||tw.mall.yahoo.com^$important
 @@||moptt.tw^$important
+@@||plurk.com^$important
+@@||ptt.cc^$important
 
 @@||reurl.cc^$important
+@@||smarturl.it^$important
 @@||arkn.lolicon.app^$important
 @@||www.tohomh123.com
 
@@ -67,3 +70,5 @@
 @@||nelo2-col.nhncorp.jp^$important
 
 @@||nianticlabs.com^$important
+@@||nianticstatic.com^$important
+@@||pokemongolive.com^$important
