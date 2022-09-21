@@ -65,3 +65,5 @@
 @@||*.line-apps.com^$important
 @@||lan.line.me^$important
 @@||nelo2-col.nhncorp.jp^$important
+
+@@||nianticlabs.com^$important
