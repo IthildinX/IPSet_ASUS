@@ -104,3 +104,8 @@ order.easeus.com
 curl.haxx.se
 buy.easeus.com
 v2api-uoss.easeus.com
+
+#IDM
+registeridm.com
+www.registeridm.com
+www.internetdownloadmanager.com
