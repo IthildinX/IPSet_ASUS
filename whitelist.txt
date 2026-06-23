@@ -1,12 +1,9 @@
-@@||www.youtube.com/get_video_info?*=embedded$xhr,domain=youtube.com
-
 @@||*.hinet.net^$important
 @@||*.facebook.com
 @@||*.pornhub.com
-@@||history.google.com^$important
+@@||*.google.com^$important
 @@||*.brave.com^$important
 
-@@||blog.xuite.net^$important
 @@||raw.githubusercontent.com
 @@||www.dlsite.com^$important
 @@||tw.mall.yahoo.com^$important
@@ -16,27 +13,21 @@
 
 @@||reurl.cc^$important
 @@||smarturl.it^$important
+
 @@||arkn.lolicon.app^$important
+
 @@||www.tohomh123.com
 
 @@||taobao.com
 @@||alipay.com
 @@||bilibili.com
 @@||www.baidu.com^$important
-@@||reurl.cc^$important
 
-@@||games.shopee.tw^$important
+@@||*.shopee.tw^$important
 @@||www.pcstore.com.tw^$important
-@@||games.shopee.tw^$important
 
 @@||files.catbox.moe^$important
 @@||upload.cc^$important
-
-@@||www.peekme.cc^$important
-@@||read01.com^$important
-@@||kknews.cc^$important
-@@||p1-tt.byteimg.com^$important
-@@||*.pstatp.com^$important
 
 @@||ot.io.mi.com^$important
 @@||ott.io.mi.com^$important
@@ -49,19 +40,6 @@
 @@||mirrors.cloud.tencent.com^$important
 @@||downloads.openwrt.org^$important
 @@||*.sophos.com^$important
-
-@@||download.iobit.com^$important
-@@||ascstats.iobit.com^$important
-@@||stats.iobit.com^$important
-@@||pro.itools.cn^$important
-@@||*.brave.com^$important
-
-@@||www.utorrent.com^$important
-@@||download-hr.utorrent.com^$important
-@@||tracking.apptrackerlink.com^$important
-@@||tracking.trnox.com^$important
-@@||download.bitcomet.com^$important
-@@||t1.daumcdn.net^$important
 
 @@||*.line.naver.jp^$important
 @@||*.line-scdn.net^$important
