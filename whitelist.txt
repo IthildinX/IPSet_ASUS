@@ -42,6 +42,7 @@
 @@||*.xiaomi.com^$important
 @@||*.miui.com^$important
 @@||*.xiaomi.net^$important
+@@||*.xiaomixiaoai.com^$important
 
 # --- 技術鏡像與防護服務 ---
 @@||mirrors.cloud.tencent.com^$important
