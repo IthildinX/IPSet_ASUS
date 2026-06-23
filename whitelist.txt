@@ -21,6 +21,9 @@
 @@||bilibili.com
 @@||www.baidu.com^$important
 
+# --- 影音 CDN 資源放行 ---
+@@||phncdn.com^$important
+
 # --- 中國購物與支付服務 ---
 @@||taobao.com
 @@||alipay.com
