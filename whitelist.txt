@@ -21,6 +21,12 @@
 @@||bilibili.com
 @@||www.baidu.com^$important
 
+# --- 遊戲 ---
+@@||nianticlabs.com^$important
+@@||nianticstatic.com^$important
+@@||pokemongolive.com^$important
+@@||top-hero.us-east-1.log.aliyuncs.com^$important
+
 # --- 影音 CDN 資源放行 ---
 @@||phncdn.com^$important
 
@@ -55,8 +61,3 @@
 @@||*.line-scdn.net^$important
 @@||*.line-apps.com^$important
 @@||nelo2-col.nhncorp.jp^$important
-
-# --- 遊戲 (Niantic) ---
-@@||nianticlabs.com^$important
-@@||nianticstatic.com^$important
-@@||pokemongolive.com^$important
