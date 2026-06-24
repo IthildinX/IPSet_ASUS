@@ -60,4 +60,4 @@
 @@||*.line.naver.jp^$important
 @@||*.line-scdn.net^$important
 @@||*.line-apps.com^$important
-@@||nelo2-col.nhncorp.jp^$important
+@@||qappcenterv6.3g.qq.com^$important
