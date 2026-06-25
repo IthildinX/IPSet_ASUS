@@ -41,14 +41,13 @@
 @@||upload.cc^$important
 
 # --- 小米生態鏈與路由管理 ---
-@@||api.miwifi.com^$important
-@@||ot.io.mi.com^$important
-@@||ott.io.mi.com^$important
-@@||stat.youpin.mi.com^$important
-@@||*.xiaomi.com^$important
 @@||*.miui.com^$important
+@@||*.xiaomi.com^$important
 @@||*.xiaomi.net^$important
 @@||*.xiaomixiaoai.com^$important
+@@||*.mi.com^$important
+@@||*.miwifi.com^$important
+@@||cdn.cnbj1.fds.api.mi-img.com^$important
 
 # --- 技術鏡像與防護服務 ---
 @@||mirrors.cloud.tencent.com^$important
